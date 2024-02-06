@@ -1,5 +1,5 @@
 ## Olá, eu sou o Luis Henrique desenvolvedor Back-end
-<div style="display: inline"><br>
+<div style="display: inline_block"><br>
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api?username=Luis-lhgdf&show_icons=true">
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-lhgdf&layout=compact">
 </div>
