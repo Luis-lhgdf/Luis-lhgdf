@@ -1,4 +1,4 @@
-## Olá eu sou o Luis Henrique, desenvolvedor Junior
+## Olá, eu sou o Luis Henrique desenvolvedor Back-end
 <div style="display: inline"><br>
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api?username=Luis-lhgdf&show_icons=true">
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-lhgdf&layout=compact">
@@ -8,7 +8,8 @@
   <img align="center" alt="luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  <img align="center" alt="luis-sql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="luis-git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">   
   
   ##
  
