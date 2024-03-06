@@ -1,4 +1,6 @@
-## Olá, eu sou o Luis Henrique desenvolvedor Back-end
+## HEY, MY NAME IS LUIS GOMES
+
+I am a Python Backend developer, studying data analysis and automation. I focus on creating efficient solutions for desktop applications and web automations. Feel free to connect or follow me on Linkedin and Github, where I publish useful content related to programming.
 <div style="display: inline_block"><br>
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api?username=Luis-lhgdf&show_icons=true">
 <img height="180em" width="500em" alt="luis-HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-lhgdf&layout=compact">
